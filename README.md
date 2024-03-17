@@ -1,1 +1,1 @@
-initialize react native
+React native bottom tab with drawer navigation
