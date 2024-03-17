@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-init",
-    "slug": "react-native-init",
+    "name": "Bottom Drawer Navigator",
+    "slug": "bottom-drawer-navigator",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
